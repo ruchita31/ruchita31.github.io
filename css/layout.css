@@ -265,12 +265,12 @@ header .scrolldown a:hover { color: #11ABB0; }
 }
 
 .java {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
 .c {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
@@ -290,7 +290,7 @@ header .scrolldown a:hover { color: #11ABB0; }
   	-webkit-animation: html5 2s ease;
 }
 .php {
-  	width: 60%;
+  	width: 65%;
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
