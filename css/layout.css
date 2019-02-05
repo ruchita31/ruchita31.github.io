@@ -275,12 +275,12 @@ header .scrolldown a:hover { color: #11ABB0; }
   	-webkit-animation: illustrator 2s ease;
 }
 .html {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 70%;
+  	width: 65%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -296,6 +296,11 @@ header .scrolldown a:hover { color: #11ABB0; }
 }
 .python{
   width: 40%;
+    -moz-animation: jquery 2s ease;
+    -webkit-animation: jquery 2s ease;
+}
+.sql{
+	 width: 60%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
