@@ -294,15 +294,15 @@ header .scrolldown a:hover { color: #11ABB0; }
   	-moz-animation: jquery 2s ease;
   	-webkit-animation: jquery 2s ease;
 }
-.python{
-  width: 40%;
+.python {
+  width: 30%;
     -moz-animation: jquery 2s ease;
     -webkit-animation: jquery 2s ease;
 }
-.sql{
-	 width: 60%;
-    -moz-animation: jquery 2s ease;
-    -webkit-animation: jquery 2s ease;
+.sql {
+width: 60%;
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;
 }
 
 @-moz-keyframes photoshop {
